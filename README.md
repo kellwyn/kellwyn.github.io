@@ -9,10 +9,15 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 - Introduction to Data Science in Python
 
 •	Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
+
 •	Use advanced Python features, including lambdas, list comprehensions and the numpy library
+
 •	Create Series and DataFrame Data Structures
+
 •	Use pandas math functions, as well as broadcasting features
+
 •	Employ the pandas library to import and manipulate data
+
 •	Apply indexing and querying to DataFrames, and deal with missing values
 •	Apply merge and join on DataFrames
 •	Employ slicing and indexing on DataFrames
@@ -32,7 +37,7 @@ https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6
 •	Analyze the graphic and use principles from Alberto Cairo's work 
 •	Create a radar plot in order to reflect on the complexity of the misleading graphic 
 •	Work with real world CSV data 
-•	Know how to create a line graph using matplotlib 
+•	Create a line graph using matplotlib 
 •	Manipulate data to get the minimum and maximum temperature 
 •	Demonstrate procedure of composite charts
 •	Build more complex features using base features (i.e., artists)
