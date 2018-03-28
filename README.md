@@ -1,6 +1,6 @@
 ## Welcome to Kellwyn Sushanth Edwin's GitHub page
 
-Profile: Data Analyst with expertise in Analytics/Statistics/Visualization/ Macintosh Tech Support \n
+Profile: Data Analyst with expertise in Analytics/Statistics/Visualization/ Macintosh Tech Support /n
 
 Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization.
 
