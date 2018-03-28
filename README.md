@@ -8,8 +8,8 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 
 - Introduction to Data Science in Python
 
-Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
-Use advanced Python features, including lambdas, list comprehensions and the numpy library
+Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files.
+Use advanced Python features, including lambdas, list comprehensions and the numpy library.
 Create Series and DataFrame Data Structures
 Use pandas math functions, as well as broadcasting features
 Employ the pandas library to import and manipulate data
