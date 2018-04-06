@@ -45,6 +45,7 @@ https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6
 •	Create a visual using matplotlib that addresses your stated research question  
 •	Justify how the visual addresses your research question  
 
+https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363
 
 - Applied Machine Learning in Python
 Fundamentals of Machine Learning - Intro to SciKit Learn
