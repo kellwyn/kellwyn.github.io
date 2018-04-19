@@ -1,10 +1,9 @@
-## Kellwyn Sushanth's GitHub  
+## Kellwyn Sushanth's GitHub
 
+Profile: Data Analyst with technical expertise in Data Analytics/Statistics/Visualizations/Machine Learning/ Macintosh Tech Support
+
+Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Database Analysis using Advanced Excel, Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization, Machine Learning using Scipy Learn.
 ### https://github.com/kellwyn/
-
-Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
-
-Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization, Machine Learning using Scipy Learn.
 
 ## Applied Data Science with Python - Coursera Specialization from University of Michigan
 
