@@ -1,10 +1,10 @@
-## [Welcome to Kellwyn Sushanth Edwin's GitHub page ](https://github.com/kellwyn/)
+[## Kellwyn Sushanth Edwin's GitHub Repository](https://github.com/kellwyn/)
 
 Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
-Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization.
+Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization, Machine Learning using Scipy Learn.
 
-## Applied Data Science with Python - Coursera Specialization from University of Michigan
+[## Applied Data Science with Python - Coursera Specialization from University of Michigan](https://github.com/kellwyn/kellwyn.github.io)
 
 - Introduction to Data Science in Python
 
@@ -58,6 +58,6 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 • Data leakage in machine learning and how to detect and avoid it  
 
 *Work in Progress  
-[Kellwyn Sushanth's Github Repository](https://github.com/kellwyn/)  
-[Sushanth's Blog](https://datasciencefuture.wordpress.com/)  
-[Sushanth's upcoming projects](https://github.com/kellwyn/kellwyn.github.io/tree/master/CricketIPLProj)  
+-[Kellwyn Sushanth's Github Repository](https://github.com/kellwyn/)  
+-[Sushanth's Blog](https://datasciencefuture.wordpress.com/)  
+-[Sushanth's upcoming projects](https://github.com/kellwyn/kellwyn.github.io/tree/master/CricketIPLProj)  
