@@ -1,10 +1,10 @@
-[## Kellwyn Sushanth Edwin's GitHub Repository](https://github.com/kellwyn/)
+## Kellwyn Sushanth Edwin's GitHub Repository [(https://github.com/kellwyn/)]
 
 Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
 Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization, Machine Learning using Scipy Learn.
 
-[## Applied Data Science with Python - Coursera Specialization from University of Michigan](https://github.com/kellwyn/kellwyn.github.io)
+## Applied Data Science with Python - Coursera Specialization from University of Michigan
 
 - Introduction to Data Science in Python
 
