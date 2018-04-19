@@ -1,4 +1,6 @@
-## Kellwyn Sushanth Edwin's GitHub Repository [(https://github.com/kellwyn/)]
+## Kellwyn Sushanth's GitHub Repository 
+
+## https://github.com/kellwyn/
 
 Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
