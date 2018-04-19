@@ -49,9 +49,9 @@ https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363
 
 - Applied Machine Learning in Python
 
-Fundamentals of Machine Learning - Intro to SciKit Learn
-Basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, using the scikit-learn library
-Supervised Machine Learning concepts, linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees
-Evaluation and model selection methods to help understand and optimize the performance of machine learning models
-Advanced Supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks
-Data leakage in machine learning and how to detect and avoid it
+•	Fundamentals of Machine Learning - Intro to SciKit Learn
+•	Basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, using the scikit-learn library
+• Supervised Machine Learning concepts, linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees
+• Evaluation and model selection methods to help understand and optimize the performance of machine learning models
+• Advanced Supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks
+• Data leakage in machine learning and how to detect and avoid it
