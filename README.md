@@ -1,6 +1,6 @@
-## Kellwyn Sushanth's GitHub Repository 
+## Kellwyn Sushanth's GitHub  
 
-## https://github.com/kellwyn/
+# https://github.com/kellwyn/
 
 Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
