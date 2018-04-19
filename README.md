@@ -1,6 +1,8 @@
-## Welcome to Kellwyn Sushanth Edwin's GitHub page
+## Welcome to Kellwyn Sushanth Edwin's GitHub page 
 
-Profile: Data Analyst with expertise in Analytics/Statistics/Visualization/ Macintosh Tech Support
+[Kellwyn Sushanth's Github Repository](https://github.com/kellwyn/)
+
+Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
 Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization.
 
@@ -24,7 +26,7 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 •	Interpret data to evaluate hypothesis tests  
 
 
-https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6
+[Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6)
 
 - Applied Plotting, Charting & Data Representation in Python
 
@@ -45,7 +47,7 @@ https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6
 •	Create a visual using matplotlib that addresses your stated research question  
 •	Justify how the visual addresses your research question  
 
-https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363
+[Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363)
 
 - Applied Machine Learning in Python
 
@@ -55,3 +57,8 @@ https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363
 • Evaluation and model selection methods to help understand and optimize the performance of machine learning models  
 • Advanced Supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and Neural Networks  
 • Data leakage in machine learning and how to detect and avoid it  
+
+*Work in Progress
+
+[Sushanth's Blog](https://datasciencefuture.wordpress.com/)
+[Sushanth upcoming projects](https://github.com/kellwyn/kellwyn.github.io/tree/master/CricketIPLProj)
