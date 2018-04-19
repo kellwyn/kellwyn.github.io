@@ -1,12 +1,10 @@
-## Welcome to Kellwyn Sushanth Edwin's GitHub page 
-
-[Kellwyn Sushanth's Github Repository](https://github.com/kellwyn/)
+## [Welcome to Kellwyn Sushanth Edwin's GitHub page ](https://github.com/kellwyn/)
 
 Profile: Data Analyst with expertise in Data Analytics/Statistics/Visualization/ Macintosh Tech Support
 
 Skills Summary: Experienced Consultant with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Statistical Analytics, Data Analysis with Python, Numpy, Pandas & Matplotlib. Data Visualization.
 
-### Applied Data Science with Python - Coursera Specialization from University of Michigan
+## Applied Data Science with Python - Coursera Specialization from University of Michigan
 
 - Introduction to Data Science in Python
 
@@ -25,8 +23,8 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 •	Recognize different distributions such as binomial, uniform, normal, and chi-squared  
 •	Interpret data to evaluate hypothesis tests  
 
-
 [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/JGNN2HM7DBG6)
+  
 
 - Applied Plotting, Charting & Data Representation in Python
 
@@ -48,6 +46,7 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 •	Justify how the visual addresses your research question  
 
 [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/QCZU692SW363)
+  
 
 - Applied Machine Learning in Python
 
@@ -58,7 +57,7 @@ Skills Summary: Experienced Consultant with a demonstrated history of working in
 • Advanced Supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and Neural Networks  
 • Data leakage in machine learning and how to detect and avoid it  
 
-*Work in Progress
-
-[Sushanth's Blog](https://datasciencefuture.wordpress.com/)
-[Sushanth upcoming projects](https://github.com/kellwyn/kellwyn.github.io/tree/master/CricketIPLProj)
+*Work in Progress  
+[Kellwyn Sushanth's Github Repository](https://github.com/kellwyn/)  
+[Sushanth's Blog](https://datasciencefuture.wordpress.com/)  
+[Sushanth's upcoming projects](https://github.com/kellwyn/kellwyn.github.io/tree/master/CricketIPLProj)  
